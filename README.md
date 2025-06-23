@@ -1,5 +1,6 @@
 # 🍽️ Yummy – Food Website
 ## Live Demo: https://mostafa219.github.io/Yummy/
+## Live Demo: https://yummyfoodwebsite.netlify.app/
 
 **Yummy** is a responsive and modern food website built using **HTML**, **CSS**, **JavaScript**, **jQuery**, and **Bootstrap 5**.  
 It’s designed to provide an elegant user experience for restaurants, food blogs, or delivery services.
